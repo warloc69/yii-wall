@@ -1,0 +1,6 @@
+
+http://yii-wall.com/web/index.php?r=site%2Fsay
+
+apt-get install php5-pgsql
+service postgresql restart
+service apache2 restart
